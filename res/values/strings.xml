@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paddle Pill</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pill_dialog">PillDialog</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_loading_connection">LoadingConnection</string>
+
+</resources>
